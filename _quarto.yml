@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs #doc directory 
+
+website:
+  title: "Porfolio"
+  site-url: "https://vladatro.github.io/Portfolio/"
+  repo-url: "https://github.com/vladatro/Portfolio"
+  repo-actions: [edit,issue]
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About me
+        
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    
+editor: visual
+
+
+
