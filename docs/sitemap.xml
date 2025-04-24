@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://vladatro.github.io/Portfolio/about.html</loc>
-    <lastmod>2025-04-24T19:40:24.361Z</lastmod>
+    <loc>https://vladatro.github.io/Portfolio/cv.html</loc>
+    <lastmod>2025-04-24T19:45:46.312Z</lastmod>
   </url>
   <url>
     <loc>https://vladatro.github.io/Portfolio/index.html</loc>
     <lastmod>2025-04-22T20:13:37.711Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vladatro.github.io/Portfolio/about.html</loc>
+    <lastmod>2025-04-24T19:47:23.417Z</lastmod>
   </url>
 </urlset>

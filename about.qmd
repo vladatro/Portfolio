@@ -1,14 +1,5 @@
 ---
-title: "About"
+title: "About me"
 ---
 
-About this site
-
-```{r}
-
-x <- 1 +5 
-x
-
-```
-
-gt
+**Vlada Trofimchuk** is a second-year PhD student in the Department of Psychology at the University of Illinois Chicago. Vlada received her B.A. in Psychology and German from Colby College. Vlada’s research interests include the psychology of conflict and reconciliation. More specifically, she is interested in understanding how conflicts affect intragroup relations, as well as the ethical ways to promote peaceful coexistence following conflicts. Through her work, Vlada hopes to inform practical strategies relevant to group relations in post-conflict societies.

@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\nx &lt;- 1 +5 \nx\n\n[1] 6\n\n\ngt"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Porfolio",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "Vlada Trofimchuk is a second-year PhD student in the Department of Psychology at the University of Illinois Chicago. Vlada received her B.A. in Psychology and German from Colby College. Vlada’s research interests include the psychology of conflict and reconciliation. More specifically, she is interested in understanding how conflicts affect intragroup relations, as well as the ethical ways to promote peaceful coexistence following conflicts. Through her work, Vlada hopes to inform practical strategies relevant to group relations in post-conflict societies."
   }
 ]
