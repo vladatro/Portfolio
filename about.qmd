@@ -3,3 +3,12 @@ title: "About"
 ---
 
 About this site
+
+```{r}
+
+x <- 1 +5 
+x
+
+```
+
+gt
